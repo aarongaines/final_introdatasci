@@ -1,6 +1,6 @@
 # Estimating Groundwater Elevation with Machine Learning
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarongaines/final_introdatasci/binder)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarongaines/final_introdatasci/main)
 
 This repository is the final project for the Introduction to Data Science course at the UCLA extension program. 
 
